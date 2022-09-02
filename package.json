@@ -38,6 +38,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^4.0.0"
+    "gh-pages": "^4.0.0",
+    "homepage": "https://laraconverso.github.io/Entrega-FE3-LaraConverso/"
   }
 }
