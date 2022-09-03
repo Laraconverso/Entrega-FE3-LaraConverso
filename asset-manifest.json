@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Entrega-FE3-LaraConverso/static/css/main.c646404d.css",
-    "main.js": "/Entrega-FE3-LaraConverso/static/js/main.c5732f96.js",
+    "main.js": "/Entrega-FE3-LaraConverso/static/js/main.0ae476bf.js",
     "index.html": "/Entrega-FE3-LaraConverso/index.html",
     "main.c646404d.css.map": "/Entrega-FE3-LaraConverso/static/css/main.c646404d.css.map",
-    "main.c5732f96.js.map": "/Entrega-FE3-LaraConverso/static/js/main.c5732f96.js.map"
+    "main.0ae476bf.js.map": "/Entrega-FE3-LaraConverso/static/js/main.0ae476bf.js.map"
   },
   "entrypoints": [
     "static/css/main.c646404d.css",
-    "static/js/main.c5732f96.js"
+    "static/js/main.0ae476bf.js"
   ]
 }
