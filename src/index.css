@@ -46,9 +46,9 @@ header p span {
   gap: 10px;
 }
 
-.producto img{
-  width: 200px;
-}
+ .producto img{
+  width: 100%;
+} 
 .producto h5{
   text-align: center;
 }

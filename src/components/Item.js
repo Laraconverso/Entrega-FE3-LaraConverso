@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-export default function Item({name, description, stock,
+export default function Item({photo, name, description, stock,
   addItem}) {
 
   const [cantStock, setCantStock] = useState(stock);
@@ -13,6 +13,7 @@ export default function Item({name, description, stock,
 
   return (
     <div className='producto'>
+      <img src={photo} alt="Foto Zapa"></img>
       <h3>{name}</h3>
       <p>{description}</p>
       <h5>En Stock: {cantStock > 0 ? cantStock : <span>Agotado</span>} </h5>
